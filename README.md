@@ -13,6 +13,5 @@
             <a href="https://twitter.com/freakykanks" target"blank_"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
     
    
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852138241909719060?theme=dark&bg=18191c&animated=false&hideDiscrim=true&borderRadius=30px)](https://discord.com/users/852138241909719060)
 
 </p>
