@@ -4,7 +4,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 <a href="https://instagram.com/gezginyigitcan35"><img src="https://img.shields.io/badge/@gezginyigitcan35-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/852138241909719060)](https://discord.com/users/852138241909719060)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/852138241909719060?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/852138241909719060)
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
