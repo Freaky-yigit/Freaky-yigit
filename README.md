@@ -2,7 +2,7 @@
 ![profile count](https://komarev.com/ghpvc/?username=Freaky-yigit&color=red)&nbsp;
 [![GitHub Freaky-yigit](https://img.shields.io/github/followers/Freaky-yigit?label=follow&style=social)](https://github.com/Freaky-yigit)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
-<a href="https://instagram.com/gezginyigitcan35"><img src="https://img.shields.io/badge/@jaylenelchavo-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/gezginyigitcan35"><img src="https://img.shields.io/badge/@gezginyigitcan35-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/612688335944679600?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/852138241909719060)
 
